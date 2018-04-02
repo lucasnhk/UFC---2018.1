@@ -1,0 +1,11 @@
+ELETROMAGNETISMO
+
+Carga Elétrica e Lei de Coulomb
+
+01.  Inicialmente, as partículas são atraídas pelo processo de indução eletrostática, em que um corpo mesmo neutro é atraído por um corpo eletrizado. No instante em que as partículas de cortiça tocam o bastão, elas se eletrizam com o mesmo sinal do bastão e então são repelidas.
+
+02. Quando se aproxima uma carga positiva de um condutor neutro, as cargas negativas se atraem pelas positivas da carga e as cargas negativas do condutor se afastam, logo com o aterramento essas cargas saem pelo fio terra para que o corpo fique em equilíbrio eletrostático.
+a) Se afastarmos a carga do condutor, o condutor que antes estava em equilíbrio apenas com cargas negativas, necessitará de cargas positivas para encontrar o equilíbrio, logo ele exige do aterramento cargas positivas para voltar ao estado neutro.
+b) Se for desfeito o aterramento, neste caso não haverá como explicado no exercício "a" as cargas voltarem para o condutor, logo ele ficará negativamente carregado.
+
+03. 
