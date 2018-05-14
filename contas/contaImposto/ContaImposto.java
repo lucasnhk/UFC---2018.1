@@ -7,6 +7,6 @@ public class ContaImposto extends ContaAbstrata {
 	}
 
 	public void debitar(double valor){
-		saldo = saldo – (valor + (valor * 0.001));
+		saldo = saldo - (valor + (valor * 0.001));
 	}
 }
